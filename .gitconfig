@@ -1,0 +1,5 @@
+[user]
+# 	name = Ivan Glushkov
+# 	email = glushkov1997@icloud.com
+[alias]
+	history = log --graph
